@@ -24,7 +24,7 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 #### ☕ Let’s Connect
 
 - 🐦 [Twitter](https://twitter.com/_SushantJha)
-- 🌐 [Website / Notion / Blog](#)
+- 🌐 [Website / Notion / Blog](https://medium.com/@_SushantJha)
 - 📬 Always open to collabs, ideas, and game data nerd chats!
 
 ---
