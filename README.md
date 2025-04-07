@@ -15,9 +15,9 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 
 #### 📈 GitHub Stats
 
-![Ominousx's Stats](https://github-readme-stats.vercel.app/api?username=Ominousx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ominousx&layout=compact&theme=vue-dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ominousx&theme=vue-dark&hide_border=true)
+![Ominousx's Stats](https://github-readme-stats.vercel.app/api?username=Ominousx&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ominousx&layout=compact&theme=gotham&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ominousx&theme=gotham&hide_border=true)
 
 ---
 
@@ -25,7 +25,7 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 
 - 🐦 [Twitter](https://twitter.com/_SushantJha)
 - 🌐 [Medium Blog](https://medium.com/@_SushantJha)
-- 📬 Always open to collabs, ideas, and game data nerd chats!
+- 📬 Always open to collabs.
 
 ---
 
