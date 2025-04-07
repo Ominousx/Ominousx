@@ -21,12 +21,6 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 
 ---
 
-#### ☕ Let’s Connect
-
-- 🐦 [Twitter](https://twitter.com/_SushantJha)
-- 🌐 [Medium Blog](https://medium.com/@_SushantJha)
-- 📬 Always open to collabs.
-
----
-
-_“Play smarter, not harder. Let the data guide the way.”_
+💡 Currently exploring new ways to visualize performance data in esports  
+📊 Always iterating, always optimizing  
+🚀 Built with a passion for clarity and impact
