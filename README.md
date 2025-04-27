@@ -32,5 +32,5 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 ---
 
 💡 Currently exploring new ways to visualize performance data in esports  
-📊 Always iterating, always optimizing  
+📊 Always iterating, developing new statistics  
 🚀 Built with a passion for clarity and impact
