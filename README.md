@@ -27,7 +27,7 @@ I'm passionate about turning raw game data into beautiful dashboards and tools t
 
 #### 📈 GitHub Stats
 
-![Ominousx's Stats](https://github-readme-stats.vercel.app/api?username=Ominousx&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![Ominousx's Stats](https://github-readme-stats.vercel.app/api?username=Ominousx&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ominousx&layout=compact&theme=gotham&hide_border=true)
 
 ---
